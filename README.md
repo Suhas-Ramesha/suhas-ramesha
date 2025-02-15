@@ -18,4 +18,4 @@ Hi! 👋 I'm Suhas Ramesha, a 2nd-year AIML student at MVJCE, passionate about M
 ---
 [![](https://visitcount.itsvg.in/api?id=Suhas-ramesha&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/suhas-ramesha/suhas-ramesha/blob/output/github-contribution-grid-snake.svg)
