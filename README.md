@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I'm Suhas Ramesha, a 2nd-year AIML student at MVJCE, passionate about ML & AI. Currently, I'm learning ML from Harvard and building projects in Python, Data Science, and AI.<br>
+Hi! 👋 I'm Suhas Ramesha, AIML student at MVJCE, passionate about ML & AI. Currently, I'm learning ML from Harvard and building projects in Python, Data Science, and AI.<br>
 
 
 ## 🌐 Socials:
