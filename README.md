@@ -24,4 +24,4 @@ Hi! 👋 I'm Suhas Ramesha, AIML student at MVJCE, passionate about ML & AI. Cur
 ---
 [![](https://visitcount.itsvg.in/api?id=suhas-ramesha&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Suhas-Ramesha/suhas-ramesha/blob/output/github-snake-dark.svg)
