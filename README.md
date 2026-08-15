@@ -204,29 +204,10 @@ Face recognition system using **React, Tailwind, Supabase, Python, OpenCV and dl
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhas-ramesha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=suhas-ramesha&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-ramesha&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
-</p>
-
-## 📈 Contribution Activity
+# 📊 GitHub Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhas-ramesha&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhas-ramesha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 </p>
 
 ---
