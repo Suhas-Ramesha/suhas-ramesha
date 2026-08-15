@@ -1,76 +1,308 @@
-# Hi — I'm Suhas Ramesha 👋
-
-AIML student at MVJCE building practical projects in Machine Learning, Data Science and full‑stack web apps. I love learning new tools and sharing projects that teach something useful.
-
----
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas-ramesha)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rsuhas319@gmail.com)
-
----
-
-## Tech highlights
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-(Full tech list visible across my repositories)
-
----
-
-## GitHub stats & activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhas-ramesha&show_icons=true&theme=dark&include_all_commits=true" alt="Suhas GitHub stats" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Suhas%20Ramesha&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhas-ramesha&theme=dark" alt="Suhas streak" />
+<h3 align="center">
+  AI/ML Enthusiast • Full-Stack Developer • Building Intelligent Things 🤖
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhas-ramesha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/suhas-ramesha?label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-ramesha&layout=compact&theme=dark" alt="Top languages" />
+<p align="center">
+  <a href="https://github.com/Suhas-Ramesha">
+    <img src="https://img.shields.io/github/stars/Suhas-Ramesha?style=for-the-badge&logo=github&label=GitHub%20Stars" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/Suhas-Ramesha?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
 </p>
-
-<p align="left">
-  <!-- Contribution activity graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=suhas-ramesha&theme=react-dark" alt="contribution graph" />
-</p>
-
-<p align="left">
-  <!-- Commit calendar/graph -->
-  <img src="https://ghchart.rshah.org/Suhas-Ramesha" alt="commit chart" />
-</p>
-
-These cards together give: Total repos, Stars received, Contribution streak, commit history and top languages.
 
 ---
 
-## Featured projects
+## 👨‍💻 About Me
 
-- Covid_Tracker — interactive COVID dataset visualizer (React + TypeScript + Firebase)
-  - https://github.com/Suhas-Ramesha/Covid_Tracker
-- Personal website / blog
-  - https://github.com/Suhas-Ramesha/Suhas-Ramesha.github.io
-- Profile repo (this repository)
-  - https://github.com/Suhas-Ramesha/suhas-ramesha
+```python
+class SuhasRamesha:
+    def __init__(self):
+        self.name = "Suhas Ramesha"
+        self.education = "B.E. Artificial Intelligence & Machine Learning"
+        self.college = "MVJ College of Engineering"
+        self.location = "Bengaluru, India"
 
-(If you'd like a different project to be featured here, tell me which repo and I will add it.)
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Data Science",
+            "Full-Stack Development"
+        ]
+
+        self.currently_building = [
+            "AI-powered applications",
+            "RAG systems",
+            "LLM-based assistants",
+            "Data analytics applications"
+        ]
+
+    def say_hi(self):
+        return "Let's build something intelligent 🚀"
+```
+
+🎓 AIML undergraduate passionate about **AI, ML, Data Science and Full-Stack Development**.
+
+🧠 Exploring **Generative AI, LLMs, RAG, Fine-Tuning and AI-powered applications**.
+
+⚡ I enjoy turning ideas into working products using **Python + AI + Web technologies**.
+
+🏆 **Amazon ML Summer School 2025** selected participant.
+
+🌱 Experienced with internships and projects across **AI/ML, Data Analytics and software development**.
 
 ---
 
-## About this README — fixes I applied
+## 🌐 Connect With Me
 
-- Replaced truncated/invalid badge markup with full working badges (LinkedIn, Email).
-- Added GitHub stats cards (overall stats, streak, top languages) and contribution/commit graphs so visitors can see activity at a glance.
-- Cleaned up layout and removed broken placeholders so images render correctly.
-
-Notes: third‑party image services (vercel.app, herokuapp.com, rshah.org) occasionally rate‑limit; if you see a broken image, wait a few minutes or try an alternate service. The snake GIF uses the repository path — ensure the referenced file exists at `output/github-snake-dark.svg` if you want that to render.
+<p align="center">
+  <a href="https://linkedin.com/in/suhas-ramesha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rsuhas319@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Suhas-Ramesha">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-If you want, I can:
-- Add or reorder featured projects.
-- Add small inline descriptions and demo GIFs for each featured repo.
-- Add a GitHub Actions workflow to refresh a generated contribution/summary image or to validate image URLs on push.
+# 🧠 What I Work With
 
-Thanks — I updated the README for you. If you'd like any wording changes or more sections (Open to Work, Skills matrix, Contact form), tell me which and I'll update the file.
+### 🐍 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash,html,css,sql"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</p>
+
+<p align="center">
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-LLM%20Fine--Tuning-black?style=for-the-badge)
+
+</p>
+
+### 🌐 Web & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,django,tailwind,vite"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase"/>
+</p>
+
+### ☁️ Cloud / DevOps / Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel,netlify,nginx"/>
+</p>
+
+### Others
+
+<p align="center">
+  
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge\&logo=twilio\&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge\&logo=apachespark\&logoColor=black)
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 AI Hospital Staffing Optimization
+
+AI-powered staffing optimization application built with **Streamlit + Prophet** to assist with workforce planning and demand forecasting.
+
+</td>
+
+<td width="50%">
+
+### 💰 Employee Salary Prediction
+
+Machine Learning application using the **UCI Census dataset** with Gradient Boosting, achieving **85%+ accuracy**.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧑‍💻 CodexPal
+
+AI coding assistant built around **Hugging Face models, Inference API and conversational AI tooling**.
+
+</td>
+
+<td width="50%">
+
+### 🎙️ SpeakDoc AI
+
+Voice-enabled PDF assistant combining **RAG, multilingual interaction, speech I/O and AI responses**.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Climate Change Data Analysis
+
+Data analytics and CO₂ prediction project using **World Bank data**, with Linear Regression, Random Forest and Gradient Boosting.
+
+</td>
+
+<td width="50%">
+
+### 🧑 Face Recognition Tool
+
+Face recognition system using **React, Tailwind, Supabase, Python, OpenCV and dlib**.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Suhas-Ramesha?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhas-ramesha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=suhas-ramesha&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-ramesha&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhas-ramesha&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suhas-ramesha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+</p>
+
+---
+
+# 📌 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhas-ramesha&theme=tokyonight" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhas-ramesha&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhas-ramesha&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhas-ramesha&theme=tokyonight&hide_border=true" width="80%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suhas-Ramesha/suhas-ramesha/output/github-snake-dark.svg" alt="GitHub Snake"/>
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+```text
+Generative AI       ███████████████████░   90%
+Machine Learning    ██████████████████░░   85%
+Data Science        █████████████████░░░   80%
+RAG & LLMs          ████████████████░░░░   75%
+Full Stack          ███████████████░░░░░   70%
+Cloud & DevOps      ████████████░░░░░░░░   60%
+```
+
+---
+
+# ☕ Developer Corner
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke"/>
+</p>
+
+<p align="center">
+  <i>"Build. Break. Learn. Repeat."</i> ⚡
+</p>
+
+---
+
+# 📫 Let's Build Something
+
+<p align="center">
+  <b>AI • ML • Data • Full Stack • Open Source</b>
+</p>
+
+<p align="center">
+  <a href="mailto:rsuhas319@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <sub>Visitors 👀 • Commits 💻 • Streaks 🔥 • Contributions 📈 • Projects 🚀</sub>
+</p>
